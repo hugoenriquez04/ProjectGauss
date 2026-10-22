@@ -1,6 +1,6 @@
 # Gauss Insight Dashboard
 
-Gauss Insight Dashboard is a full-stack application for exploring and analysing mental-health data. It combines an interactive React dashboard, a FastAPI REST API, an Oracle Autonomous Database connection, exploratory data-analysis notebooks, and optional Gemini-powered insights.
+Gauss Insight Dashboard is a full-stack application for exploring and analysing mental-health data. It combines an interactive React dashboard, a FastAPI REST API, an Oracle Autonomous Database connection, exploratory data-analysis notebooks, and optional Gemini-powered insights for the Malackathon 2025, at the BHS challenge.
 
 ## Team
 
